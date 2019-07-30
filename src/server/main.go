@@ -3,14 +3,14 @@ package main
 import (
 	"common"
 	"flag"
-	"github.com/google/uuid"
-	"github.com/sirupsen/logrus"
 	"time"
 
 	"config"
 	"logger"
 
 	"github.com/gin-gonic/gin"
+	"github.com/google/uuid"
+	"github.com/sirupsen/logrus"
 )
 
 func LoggerMiddleware(origLogClient *logrus.Logger) gin.HandlerFunc {
