@@ -3,11 +3,12 @@ package logger
 import (
 	"config"
 	"fmt"
+	"io/ioutil"
+
 	"github.com/kmiku7/golog"
 	"github.com/kmiku7/logrus-bridge/formatter"
 	"github.com/kmiku7/logrus-bridge/hooks"
 	"github.com/sirupsen/logrus"
-	"io/ioutil"
 )
 
 type Logger interface {

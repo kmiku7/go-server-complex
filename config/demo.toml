@@ -1,0 +1,5 @@
+[core]
+	listen_address = ":8066"
+
+[log]
+	log_dir = "../log"

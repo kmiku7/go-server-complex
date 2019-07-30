@@ -2,9 +2,10 @@ package config
 
 import (
 	"bytes"
-	"github.com/BurntSushi/toml"
 	"io/ioutil"
 	"testing"
+
+	"github.com/BurntSushi/toml"
 )
 
 func TestLoadConfig(t *testing.T) {
