@@ -1,0 +1,56 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Pc2ORQp+VY3Un/dkh4QwLC7R6lE=",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "3012a1dbe2e4bd1391d42b32f0577cb7bbc7f005",
+			"revisionTime": "2018-08-15T10:47:33Z",
+			"version": "v0.3.1",
+			"versionExact": "v0.3.1"
+		},
+		{
+			"checksumSHA1": "bB54kWsTodkPHKRs4kspZ2MUBfI=",
+			"path": "github.com/kmiku7/golog",
+			"revision": "579e673b8cec6f78b3a5d9523337ceb2517a3752",
+			"revisionTime": "2019-07-12T06:03:28Z",
+			"version": "v0.0.1",
+			"versionExact": "v0.0.1"
+		},
+		{
+			"checksumSHA1": "7zLgte1xjyB86SJ5dnIjY2OWqBk=",
+			"path": "github.com/kmiku7/logrus-bridge/formatter",
+			"revision": "da1e786edfc5203f781693a7373b5dbe27e88750",
+			"revisionTime": "2019-07-08T15:18:22Z",
+			"version": "v0.0.1",
+			"versionExact": "v0.0.1"
+		},
+		{
+			"checksumSHA1": "RJY49P9i7/tLSIsp/9iefKSrYaI=",
+			"path": "github.com/kmiku7/logrus-bridge/hooks",
+			"revision": "da1e786edfc5203f781693a7373b5dbe27e88750",
+			"revisionTime": "2019-07-08T15:18:22Z",
+			"version": "v0.0.1",
+			"versionExact": "v0.0.1"
+		},
+		{
+			"checksumSHA1": "Aulh7C5SVOA4Jzt5eHNH6197Mbk=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": "f55edac94c9bbba5d6182a4be46d86a2c9b5b50e",
+			"revisionTime": "2019-02-26T22:47:05Z"
+		},
+		{
+			"checksumSHA1": "C4GxBAMKg/+Utfx3GD3dRa0kZhY=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "839c75faf7f98a33d445d181f3018b5c3409a45e",
+			"revisionTime": "2019-05-18T10:38:48Z",
+			"version": "v1.4.2",
+			"versionExact": "v1.4.2"
+		},
+		{
+			"path": "golang.org/x/sys/unix",
+			"revision": ""
+		}
+	]
+}
